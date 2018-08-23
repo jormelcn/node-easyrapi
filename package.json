@@ -1,0 +1,24 @@
+{
+  "name": "easyrapi",
+  "version": "0.0.1",
+  "description": "Easy Api Framework",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "easy",
+    "express"
+  ],
+  "author": "Jorge Narváez",
+  "license": "MIT",
+  "dependencies": {
+    "@types/debug": "0.0.30",
+    "@types/express": "^4.16.0",
+    "debug": "^3.1.0",
+    "easyerror": "^0.1.1",
+    "express": "^4.16.3"
+  }
+}
